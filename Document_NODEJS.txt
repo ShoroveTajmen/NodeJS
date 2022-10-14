@@ -1,0 +1,18 @@
+What is Node JS?
+
+--> Node JS is a platform where we can run js server side operation via this platform. It has own library which provide
+us different application programming interface as if we can manage server side operation.
+
+
+#What is package.json?
+
+--> package.json is all documents of application
+
+- Holda various metadata relevant to the project
+- handle the projects dependencies
+- used identify the project
+- used to hold application information
+
+
+---> to create package.json file used this command
+             - npm init --y
