@@ -16,3 +16,15 @@ us different application programming interface as if we can manage server side o
 
 ---> to create package.json file used this command
              - npm init --y
+
+
+
+
+
+Mongo db database access username : Sorovi
+pass: 9cvZOEfqMw1rNDnH
+
+
+# In MySQL collections means a table
+
+#json -> javascript object notation
